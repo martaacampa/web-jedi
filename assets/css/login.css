@@ -1,0 +1,22 @@
+.log_in {
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    color: white;
+    background-color: black;
+}
+
+.button_submit {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    padding: 5vw;
+    color: black;
+    border-radius:0.15em;
+    background-color: white;
+}
+
+
+
